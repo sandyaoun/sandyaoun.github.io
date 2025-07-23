@@ -1,0 +1,57 @@
+h1.disInline, h3.disInline {
+  display : inline;
+}
+
+table tr.height8 {
+  height : 8px;
+}
+
+table tr.height16 {
+  height : 16px;
+}
+
+table tr.height32 {
+  height : 32px;
+}
+
+table td.width0Or5 {
+  width : 0px;
+}
+
+table td.valignTop {
+  vertical-align : top;
+}
+
+a.blackWithLine:link {
+  text-decoration : none;
+  color : black;
+}
+
+a.blackWithLine:visited {
+  text-decoration : none;
+  color : black;
+}
+
+a.blackWithLine:hover {
+  text-decoration : underline;
+}
+
+a.blueWithLine:link {
+  text-decoration : none;
+  color : blue;
+}
+
+a.blueWithLine:visited {
+  text-decoration : none;
+  color : blue;
+}
+
+a.blueWithLine:hover {
+  text-decoration : underline;
+}
+
+@media only screen and (min-width: 600px) {
+  table td.width0Or5 {
+    width : 5px;
+  }
+}
