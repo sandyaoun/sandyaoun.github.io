@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sandy Aoun - NLP Papers Fun</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  
+  <body>
+    
+    <hr>
+    <h1>NLP Papers Fun</h1>
+    <hr>
+    
+    <table>
+      <tbody>
+        <tr>
+          <td>This page is dedicated to sharing NLP papers I find interesting, and writing about them! Stay tuned if you like such type of content!</td>
+        </tr>
+      </tbody>
+    </table>
+    
+    <hr>
+    <p><i>Back to Sandy Aoun's <a href="https://sandyaoun.github.io/">homepage</a></i></p>
+  </body>
+</html>
